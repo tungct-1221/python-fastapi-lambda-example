@@ -1,0 +1,9 @@
+# file environment
+.env
+.env.example
+
+# docker-compose
+docker-compose.yml
+
+# Python
+__pycache__/
